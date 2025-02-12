@@ -33,12 +33,11 @@ We used 16 state-of-the-art large language models (LLMs) to compare with our Fin
 
 
 ### 🧩 Reasoning Path Building
-Here is the content of the building reasoning path
+For the reasoning path building and training part, we were inspired by [HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1)
 
 We release the reasoning path here: https://huggingface.co/datasets/TheFinAI/Fino1_Reasoning_Path_FinQA
 
 ### 🏗️ How to Train Fino1
-For the training part, we were inspired by [HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1)
 - **Stage 1: Supervised Fine-Tuning (SFT)**
 
 Fine-tune the model on an 8-GPU setup:
