@@ -18,7 +18,7 @@ Here, we used 3 evaluation datasets to assess our Fino1 model
 |---------|-------------|
 | **[FinQA](https://your-dataset1-link.com)** | descriptions |
 | **[DocMath](https://your-dataset2-link.com)** | descriptions |
-| **[XBRL-Math](https://your-dataset3-link.com)** | descriptions |
+| **[XBRL-Math](https://huggingface.co/datasets/TheFinAI/Regulation_XBRL_FinMath_test)** | descriptions |
 
 ### 🏆 Models Evaluated
 We used 16 state-of-the-art large language models (LLMs) to compare with our Fino1 model
