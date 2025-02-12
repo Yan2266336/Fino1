@@ -1,11 +1,11 @@
 
-<!-- 头部标题 -->
-<h1 align="center">🚀 LIMO: Less Is More for Reasoning</h1>
+<!-- Title -->
+<h1 align="center">🚀 Fino1</h1>
 
 <p align="center">
-  <a href="https://your-paper-link.com">📄 Paper</a> |
-  <a href="https://your-dataset-link.com">📊 Dataset</a> |
-  <a href="https://your-model-link.com">🤖 Model</a>
+  <a href="https://your-paper-link.com">📄 Our Paper</a> |
+  <a href="https://your-dataset-link.com">📊 Evaluation Dataset</a> |
+  <a href="https://your-model-link.com">🤖 Evaluation Model</a>
 </p>
 
 ---
