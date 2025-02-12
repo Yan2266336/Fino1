@@ -32,14 +32,11 @@ We used 16 state-of-the-art large language models (LLMs) to compare with our Fin
 | **[DeepSeek-R1](https://your-model5-link.com)** | descriptions |
 
 
-<p align="center">
-  <img src="your-uploaded-image-url.png" alt="LIMO Performance" width="800px">
-</p>
+### Reasoning path building
+Here is the content of the building reasoning path
 
-<p align="center">
-  <b>completely <span style="color:red;">same</span> backbone</b><br>
-  <b>1% data → <span style="color:green;">778%</span> gain on AIME24 (pass@1)</b>
-</p>
+### How to train Fino1
+For the training part, we were inspired by [Huatuo-GPT o1](https://your-model5-link.com)
 
 ---
 
