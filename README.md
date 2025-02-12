@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://your-paper-link.com">📄 Our Paper</a> |
-  <a href="https://your-model-link.com">🤖 Our Model</a>
+  <a href="https://huggingface.co/TheFinAI/Fino1-8B">🤖 Our Model</a>
 </p>
 
 ---
@@ -34,6 +34,8 @@ We used 16 state-of-the-art large language models (LLMs) to compare with our Fin
 
 ### 🧩 Reasoning Path Building
 Here is the content of the building reasoning path
+
+We release the reasoning path here: https://huggingface.co/datasets/TheFinAI/Fino1_Reasoning_Path_FinQA
 
 ### 🏗️ How to Train Fino1
 For the training part, we were inspired by [HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1)
