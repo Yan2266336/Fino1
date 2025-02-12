@@ -32,30 +32,27 @@ We used 16 state-of-the-art large language models (LLMs) to compare with our Fin
 | **[DeepSeek-R1](https://your-model5-link.com)** | descriptions |
 
 
-### Reasoning path building
+### 🧩 Reasoning Path Building
 Here is the content of the building reasoning path
 
-### How to train Fino1
+### 🏗️ How to Train Fino1
 For the training part, we were inspired by [Huatuo-GPT o1](https://your-model5-link.com)
 
+### 🎯 How to Evaluate Fino1
+[Finben](https://github.com/The-FinAI/FinBen)
+
+we also used [DocMath-Eval](https://github.com/yale-nlp/DocMath-Eval) to evaluate our model's ability
 ---
 
-## 🎯 Key Highlights
-✅ **Superior performance across 10 benchmarks**  
-✅ **Achieves strong generalization with only 1% data**  
-✅ **Significant improvement over larger datasets**  
+## Key Highlights
+✅ **contribution1**  
+✅ **contribution2**  
+✅ **contribution3**  
 
 ---
 
 ## 🛠️ Updates
 
-- **[2024/02/10]** 🎉 We've added LIMO's performance on the recently completed 
-  [AIME 2025 Part 1 evaluation](https://your-link.com), where it achieved a solid score of **44.5**, 
-  demonstrating competitive performance using only **817 training samples** compared to other models 
-  trained on much larger datasets (**800k samples**).
+- **[2025/02/12]** 🎉 We've trained Fino1 model and evaluated its performance recently 
+ 
 
-- **[2024/02/10]** 🎉 [**Third-party evaluations**](https://your-link.com) highlight LIMO's strong generalization capabilities.
-
-- **[2025/02/08]** 📢 The LIMO dataset has received positive recognition from the 
-  [community](https://your-link.com). According to third-party evaluations, the dataset achieved a 
-  **10-percentage point improvement** on AIME24 and GPQA be
