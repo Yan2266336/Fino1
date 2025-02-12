@@ -39,6 +39,7 @@ Here is the content of the building reasoning path
 For the training part, we were inspired by [Huatuo-GPT o1](https://your-model5-link.com)
 
 ### 🎯 How to Evaluate Fino1
+
 we  construct our Fino1 cart at [Finben](https://github.com/The-FinAI/FinBen) <br>
 we also used [DocMath-Eval](https://github.com/yale-nlp/DocMath-Eval) to evaluate our model's ability
 ---
