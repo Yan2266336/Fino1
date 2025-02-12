@@ -1,3 +1,3 @@
 
 <!--Introduction-->
-<h1 align="center"> Fino1 </h1>
+<h1 align="left"> Fino1 </h1>
