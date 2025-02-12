@@ -38,7 +38,7 @@ Here is the content of the building reasoning path
 ### 🏗️ How to Train Fino1
 For the training part, we were inspired by [HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1)
 - **Stage 1: Supervised Fine-Tuning (SFT)**
-- 
+
 Fine-tune the model on an 8-GPU setup:
 ```bash
 accelerate launch --config_file ./configs/deepspeed_zero3.yaml \
