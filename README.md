@@ -76,7 +76,7 @@ For the final evaluation, we used [DocMath-Eval](https://github.com/yale-nlp/Doc
 ## Key Results
 ### 📊 Performance of Different LLMs on Financial Datasets
 
-| **Models** | **FinQA** | **DM-Simplong** | **XBRL-Math** | **Average** |
+| **Models** | **FinQA** | **DocMath** | **XBRL-Math** | **Average** |
 |------------|----------|----------------|--------------|-----------|
 | **GPT-4o** | 72.49 | 60.00 | 72.22 | 68.24 |
 | **GPT-o1** | 49.07 | 56.00 | 74.44 | 59.84 |
