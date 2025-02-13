@@ -26,9 +26,9 @@ We used 16 state-of-the-art large language models (LLMs) to compare with our Fin
 
 | Model | Description |
 |-------|------------|
-| **[GPT-4o](https://your-model1-link.com)** | descriptions |
-| **[GPT-o1](https://your-model2-link.com)** | descriptions |
-| **[GPT-o3-mini](https://your-model3-link.com)** | descriptions |
+| **[GPT-4o](https://platform.openai.com/docs/models#gpt-4o)** | descriptions |
+| **[GPT-o1](https://platform.openai.com/docs/models#o1)** | descriptions |
+| **[GPT-o3-mini](https://platform.openai.com/docs/models#o3-mini)** | descriptions |
 | **[DeepSeek-V3](https://your-model4-link.com)** | descriptions |
 | **[DeepSeek-R1](https://your-model5-link.com)** | descriptions |
 
