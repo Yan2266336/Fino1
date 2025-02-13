@@ -29,8 +29,8 @@ We used 16 state-of-the-art large language models (LLMs) to compare with our Fin
 | **[GPT-4o](https://platform.openai.com/docs/models#gpt-4o)** | descriptions |
 | **[GPT-o1](https://platform.openai.com/docs/models#o1)** | descriptions |
 | **[GPT-o3-mini](https://platform.openai.com/docs/models#o3-mini)** | descriptions |
-| **[DeepSeek-V3](https://your-model4-link.com)** | descriptions |
-| **[DeepSeek-R1](https://your-model5-link.com)** | descriptions |
+| **[DeepSeek-V3](https://huggingface.co/deepseek-ai/DeepSeek-V3)** | descriptions |
+| **[DeepSeek-R1](https://huggingface.co/deepseek-ai/DeepSeek-R1)** | descriptions |
 
 
 ### 🧩 Reasoning Path Building
