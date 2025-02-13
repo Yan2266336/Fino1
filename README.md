@@ -13,7 +13,7 @@
 ## 📈 Overview
 
 ### 📂 Datasets Used
-Here, we used 3 evaluation datasets to assess our Fino1 model
+Here, we utilized three evaluation datasets to assess the performance of our Fino1 model.
 
 | Dataset | Description |
 |---------|-------------|
@@ -22,7 +22,7 @@ Here, we used 3 evaluation datasets to assess our Fino1 model
 | **[XBRL-Math](https://huggingface.co/datasets/TheFinAI/Regulation_XBRL_FinMath_test)** | XBRL-Math dataset evaluates LLMs' numerical reasoning in XBRL filings, requiring models to interpret structured financial data, US GAAP XBRL tags, equations, and hierarchical numerical relationships for accurate financial analysis. |
 
 ### 🏆 Models Evaluated
-We used 16 state-of-the-art large language models (LLMs) to compare with our Fino1 model
+We compared our Fino1 model against 16 state-of-the-art large language models (LLMs).
 
 | Model | Description |
 |-------|------------|
@@ -141,6 +141,22 @@ we also used [DocMath-Eval](https://github.com/yale-nlp/DocMath-Eval) to evaluat
 
 ## 🛠️ Updates
 
-- **[2025/02/12]** 🎉 We've trained Fino1 model and evaluated its performance recently 
- 
+- **[2025/02/12]** 🎉 We've trained Fino1 model and evaluated its performance recently
+
+---
+
+## 📄 Citation
+If you find our work useful, please cite our paper:
+
+**BibTeX:**
+```bibtex
+@misc{qian2025fino1transferabilityreasoningenhanced,
+      title={Fino1: On the Transferability of Reasoning Enhanced LLMs to Finance}, 
+      author={Lingfei Qian and Weipeng Zhou and Yan Wang and Xueqing Peng and Jimin Huang and Qianqian Xie},
+      year={2025},
+      eprint={2502.08127},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.08127}, 
+}
 
