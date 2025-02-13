@@ -50,6 +50,7 @@ For the reasoning path building and training part, we were inspired by [HuatuoGP
 We release the reasoning path here: https://huggingface.co/datasets/TheFinAI/Fino1_Reasoning_Path_FinQA
 
 ### 🏗️ How to Train Fino1
+Refer to [HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1), we applied two-stage way to train our Fino1 model
 - **Stage 1: Supervised Fine-Tuning (SFT)**
 
 Fine-tune the model on an 8-GPU setup:
@@ -65,7 +66,7 @@ accelerate launch --config_file ./configs/deepspeed_zero3.yaml \
 
 - **Stage 2: Reinforcement Learning (RL)**
 
-We provide a simple PPO script using the [trl](https://github.com/huggingface/trl) library. Below is an example for training an 8B model with PPO on an 8-GPU A100 machine. Ensure you first download our [medical verifier](https://huggingface.co/FreedomIntelligence/medical_o1_verifier_3B) as the reward model.
+We provide a simple PPO script using the [trl](https://github.com/huggingface/trl) library. Below is an example for training an 8B model with PPO on an 8-GPU A100 machine. Ensure you first download [medical verifier](https://huggingface.co/FreedomIntelligence/medical_o1_verifier_3B) as the reward model.
 
 ```bash
 accelerate launch \
