@@ -16,8 +16,8 @@ Here, we used 3 evaluation datasets to assess our Fino1 model
 
 | Dataset | Description |
 |---------|-------------|
-| **[FinQA](https://your-dataset1-link.com)** | descriptions |
-| **[DocMath](https://your-dataset2-link.com)** | descriptions |
+| **[FinQA](https://huggingface.co/datasets/TheFinAI/FINQA_test_test)** | descriptions |
+| **[DocMath](https://huggingface.co/datasets/TheFinAI/flare-dm-simplong)** | descriptions |
 | **[XBRL-Math](https://huggingface.co/datasets/TheFinAI/Regulation_XBRL_FinMath_test)** | descriptions |
 
 ### 🏆 Models Evaluated
