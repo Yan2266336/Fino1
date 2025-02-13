@@ -1,6 +1,6 @@
 
 <!-- Title -->
-<h1 align="center">🚀 Fino1</h1>
+<h1 align="center">🚀 Fino1: On the Transferability of Reasoning-Enhanced LLMs to Finance</h1>
 
 <p align="center">
   <a href="https://huggingface.co/datasets/TheFinAI/Fino1_Reasoning_Path_FinQA">📂 Training Data</a> |
