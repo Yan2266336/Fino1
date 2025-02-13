@@ -29,8 +29,14 @@ We used 16 state-of-the-art large language models (LLMs) to compare with our Fin
 | **[GPT-4o](https://platform.openai.com/docs/models#gpt-4o)** | descriptions |
 | **[GPT-o1](https://platform.openai.com/docs/models#o1)** | descriptions |
 | **[GPT-o3-mini](https://platform.openai.com/docs/models#o3-mini)** | descriptions |
-| **[DeepSeek-V3](https://huggingface.co/deepseek-ai/DeepSeek-V3)** | descriptions |
-| **[DeepSeek-R1](https://huggingface.co/deepseek-ai/DeepSeek-R1)** | descriptions |
+| **[DeepSeek-V3](https://huggingface.co/deepseek-ai/DeepSeek-V3)** | DeepSeek-V3 is a 671B Mixture-of-Experts (MoE) model with 37B active parameters per token, leveraging Multi-head Latent Attention (MLA) and DeepSeekMoE for efficient training and inference, achieving state-of-the-art performance comparable to closed-source models with stable and cost-effective training. |
+| **[DeepSeek-R1](https://huggingface.co/deepseek-ai/DeepSeek-R1)** | DeepSeek-R1-Zero and DeepSeek-R1 are first-generation reasoning models, with DeepSeek-R1 incorporating cold-start data before RL to improve readability and performance, achieving results comparable to OpenAI-o1 across reasoning tasks, while open-sourced distilled models set new benchmarks for dense models. |
+| **[Qwen2.5-72B-Instruct](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct)** | Qwen2.5 is the latest series of Qwen LLMs, offering models from 0.5B to 72B parameters with improved knowledge, coding, math, instruction following, structured data handling, long-context support (up to 128K tokens), and multilingual capabilities across 29+ languages. |
+| **[Qwen2.5-Math-72B-Instruct](https://huggingface.co/Qwen/Qwen2.5-Math-72B-Instruct)** | Qwen2.5-Math-72B-Instruct is an upgraded open-source mathematical LLM supporting both Chain-of-Thought (CoT) and Tool-integrated Reasoning (TIR) for solving math problems in Chinese and English, offering significant performance improvements over Qwen2-Math. |
+| **[DeepSeek-R1-Distill-Llama-70B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B)** | DeepSeek-R1-Zero and DeepSeek-R1 are first-generation reasoning models, with DeepSeek-R1 incorporating cold-start data before RL to improve readability and performance, achieving results comparable to OpenAI-o1 across reasoning tasks, while open-sourced distilled models set new benchmarks for dense models. |
+| **[Llama3-70B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct)** | Meta released the Llama 3 family of 8B and 70B LLMs, optimized for dialogue, outperforming many open-source chat models while prioritizing helpfulness and safety. |
+| **[Llama3.1-70B-Instruct](https://huggingface.co/meta-llama/Llama-3.1-70B-Instruct)** | The Meta Llama 3.1 collection includes multilingual LLMs (8B, 70B, 405B) optimized for multilingual dialogue, outperforming many open-source and closed chat models on industry benchmarks. |
+| **[Llama3.3-70B-Instruct](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct)** | The Meta Llama 3.3 is a 70B instruction-tuned multilingual LLM optimized for dialogue, outperforming many open-source and closed chat models on industry benchmarks. |
 
 
 ### 🧩 Reasoning Path Building
