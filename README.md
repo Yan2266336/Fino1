@@ -3,6 +3,7 @@
 <h1 align="center">🚀 Fino1</h1>
 
 <p align="center">
+  <a href="https://huggingface.co/datasets/TheFinAI/Fino1_Reasoning_Path_FinQA">📄 Training Data</a> |
   <a href="https://arxiv.org/pdf/2502.08127">📄 Our Paper</a> |
   <a href="https://huggingface.co/TheFinAI/Fino1-8B">🤖 Our Model</a>
 </p>
@@ -17,7 +18,7 @@ Here, we used 3 evaluation datasets to assess our Fino1 model
 | Dataset | Description |
 |---------|-------------|
 | **[FinQA](https://huggingface.co/datasets/TheFinAI/FINQA_test_test)** | descriptions |
-| **[DocMath](https://huggingface.co/datasets/TheFinAI/flare-dm-simplong)** | descriptions |
+| **[DocMath](https://huggingface.co/datasets/yale-nlp/DocMath-Eval)** | descriptions |
 | **[XBRL-Math](https://huggingface.co/datasets/TheFinAI/Regulation_XBRL_FinMath_test)** | descriptions |
 
 ### 🏆 Models Evaluated
