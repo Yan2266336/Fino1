@@ -59,8 +59,13 @@ We provide a simple PPO script using the [trl](https://github.com/huggingface/tr
 
 Please check [HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1) for more training details.
 
-### 🎯 How to Evaluate Fino1
-Model inference of local models are conducted based on [Finben](https://github.com/The-FinAI/FinBen) with VLLM framework.<br>
+# 🎯 How to Evaluate Fino1
+
+## Local Models  
+Model inference for local models is conducted using **[FinBen](https://github.com/The-FinAI/FinBen)** with the **VLLM framework**.
+
+## API Models  
+For API-based models, evaluation is performed using the **`query_llm.py`** script.
 
 For the final evaluation, we used [DocMath-Eval](https://github.com/yale-nlp/DocMath-Eval) to first use GPT to extract final answers from the result and then evaluate the correctness of the answer.
 
