@@ -105,10 +105,9 @@ accelerate launch \
 ```
 
 ### 🎯 How to Evaluate Fino1
+Model inference of local models are conducted based on [Finben](https://github.com/The-FinAI/FinBen) with VLLM framework.<br>
 
-we  construct our Fino1 cart at [Finben](https://github.com/The-FinAI/FinBen) <br>
-we also used [DocMath-Eval](https://github.com/yale-nlp/DocMath-Eval) to evaluate our model's ability
-
+For the final evaluation, we used [DocMath-Eval](https://github.com/yale-nlp/DocMath-Eval) to first use GPT to extract final answers from the result and then evaluate the correctness of the answer.
 
 ---
 
